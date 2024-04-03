@@ -20,7 +20,7 @@ Activation functions can be :
 4. Hyperbolic function $\frac{e^z - e^{-z}}{e^z + e^{-z}}$
 5. ReLU (Rectified linear unit) $max(z,0)$
 6. Leaky ReLU
-7. Softmax function $\frac{e^{z_i}}{\sum_{k} e^{z_k}}$
+7. Softmax function $\frac{e^{z_i}}{\sum_{k} e^{z_k}}$ in output layer
 
 
 
