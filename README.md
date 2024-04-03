@@ -1,7 +1,7 @@
-# Building Neural Network from scratch
+# Building Neural Network with keras
 <img src="http://cocl.us/general_neural_network" alt="Neural Network General" width="600px">
 
- These are the steps we take:
+ These steps taken in training a neural networks are:
  1. Initialize the weights and biases
  2. Iteratively repeat following steps:
     
