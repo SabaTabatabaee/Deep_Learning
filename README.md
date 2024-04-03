@@ -13,3 +13,11 @@
     
     4.Repeat the above three steps until the number of iterations/epoches is reached or error between ground truth and predicted output is below a predefined threshold
  
+Activation functions could be :
+1. Binary step function
+2. Linear function
+3. Sigmoid function
+4. Hyperbolic function
+5. ReLU (Rectified linear unit)
+6. Leaky ReLU
+7. Softmax function
