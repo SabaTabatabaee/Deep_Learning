@@ -1,4 +1,4 @@
-# Building Neural Network with keras
+# Neural Network
 <img src="http://cocl.us/general_neural_network" alt="Neural Network General" width="600px">
 
  These steps taken in training a neural networks are:
