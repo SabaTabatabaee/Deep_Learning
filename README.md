@@ -22,4 +22,5 @@ Activation functions can be :
 6. Leaky ReLU
 7. Softmax function exp(zi)/sum(exp(zk))
 
+$\frac{e^{z_i}}{\sum_{k} e^{z_k}}$
 
