@@ -13,7 +13,7 @@
     
     4.Repeat the above three steps until the number of iterations/epoches is reached or error between ground truth and predicted output is below a predefined threshold
  
-Activation functions could be :
+Activation functions can be :
 1. Binary step function
 2. Linear function
 3. Sigmoid function
