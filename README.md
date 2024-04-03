@@ -22,6 +22,8 @@ Activation functions can be :
 6. Leaky ReLU
 7. Softmax function $\frac{e^{z_i}}{\sum_{k} e^{z_k}}$ recommended activation function in output layer
 
-
+# Description of codes:
+NeuralNet_FWD.ipynb    :   getting familiar yourself with $Feed Forward$ step
+simple_keras.ipynb     :    a simple regression and classification neural models with keras
 
 
