@@ -1,4 +1,4 @@
-# Building neural Network from scratch
+# Building Neural Network from scratch
 <img src="http://cocl.us/general_neural_network" alt="Neural Network General" width="600px">
 
  These are the steps we take:
