@@ -21,10 +21,21 @@ Activation functions can be :
 5. ReLU (Rectified linear unit) $max(z,0)$ recommended activation function in hidden layers
 6. Leaky ReLU
 7. Softmax function $\frac{e^{z_i}}{\sum_{k} e^{z_k}}$ recommended activation function in output layer
-
+Supervised Deep Learning :
+- CNN
+- RNN
+Unsupervised Deep Learning:
+- Autoencoder : (more interesting than PCA)
+  A very popular type of autoencoders is the Restricted Boltzmann Machines (RBMs)
+  Applications include:
+  - Fixing imbalanced dataset
+  - Estimating missing values
+  - Automated Feature Extraction
+  
 # Description of codes:
 - NeuralNet_FWD.ipynb  :   getting familiar yourself with $Feed Forward$ step
 
 - simple_keras.ipynb   :    a simple regression and classification neural models with keras
+- simple_cnn.ipynb     :    a simple CNN classification model with keras
 
 
