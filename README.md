@@ -35,7 +35,7 @@ Unsupervised Deep Learning:
 # Description of codes:
 - NeuralNet_FWD.ipynb  :   getting familiar yourself with $Feed Forward$ step
 
-- simple_keras.ipynb   :    a simple regression and classification neural models with keras
-- simple_CNN.ipynb     :    a simple CNN classification model with keras
+- MNIST_keras.ipynb   :    a simple regression and classification neural models with keras
+- concrete_CNN.ipynb     :    a simple CNN classification model with keras
 
 
