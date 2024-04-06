@@ -33,7 +33,7 @@ Unsupervised Deep Learning:
   - Automated Feature Extraction
   
 # Description of codes:
-- NeuralNet_FWD.ipynb  :   getting familiar yourself with $Feed Forward$ step
+- NeuralNet_algorithm.ipynb  :   getting familiar yourself with $Feed Forward$ and $backward-propagation$ algorithm
 
 - MNIST_keras.ipynb   :    a simple regression and classification neural models with keras
 - concrete_CNN.ipynb     :    a simple CNN classification model with keras
