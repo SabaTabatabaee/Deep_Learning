@@ -38,6 +38,7 @@ Unsupervised Deep Learning:
 - MNIST_keras.ipynb   :    a simple regression and classification neural models with keras
 - concrete_CNN.ipynb     :    a simple CNN classification model with keras
 - Facial_Expression_Recognition_with_PyTorch.ipynb : Facial expression (sad, happy, angry,..etc) recognition in PyTorch
+- Facial_Expression_Recognition_with_PyTorch.ipynb : Facial_Expression_Recognition_with_PyTorch (ResNet50)
 
 
 
